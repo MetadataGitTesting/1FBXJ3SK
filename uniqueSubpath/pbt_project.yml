@@ -19,6 +19,19 @@ pipelines:
       outputs: []
     subgraphs: []
     dependencies: {}
+  pipelines/Manuel_StokesAnna_PrenticeClementina_Yost:
+    name: Manuel_StokesAnna_PrenticeClementina_Yost
+    description: null
+    author: xbt595mb.p3nvzn3x@rsheteoy.com
+    mode: batch
+    artefactID: ''
+    language: sql
+    createdAt: '2025-12-05 23:14:54'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
 datasets: {}
 templates: {}
 jobs: {}
